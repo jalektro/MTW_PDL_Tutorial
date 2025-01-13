@@ -4,14 +4,14 @@
 [UART](https://infineon.github.io/psoc6pdl/pdl_api_reference_manual/html/group__group__scb__uart.html)
 ## Device configurator
 For this setup, we will use pin **P5[0]** and **P5[1]** for UART communication.
-![[UART_pin.png]]
-![[UARTP5[0].png]] 
-![[UARTP5[1].png]]
+![[pictures/UART_pin.png]]
+![[pictures/UARTP5[0].png]] 
+![[pictures/UARTP5[1].png]]
 ### Peripheral Configuration
 
 After setting up the pins, configure the UART peripheral as shown below:
-![[UART_peripherals.png]]
-![[UART_params.png]]
+![[pictures/UART_peripherals.png]]
+![[pictures/UART_params.png]]
 Save these configurations to finalize the setup in the Device Configurator.
 ## Main
 
