@@ -5,9 +5,9 @@
 
 
 ## Device configurator 
-![[pictures/rtc.png]]
+![](pictures/rtc.png)
 
-![[pictures/RTC_param.png]]
+![](pictures/RTC_param.png)
 
 
 ## Main 
