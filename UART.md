@@ -12,6 +12,7 @@ For this setup, we will use pin **P5[0]** and **P5[1]** for UART communication.
 After setting up the pins, configure the UART peripheral as shown below:
 ![](pictures/UART_peripherals.png)
 ![](pictures/UART_params.png)
+
 Save these configurations to finalize the setup in the Device Configurator.
 ## Main
 
